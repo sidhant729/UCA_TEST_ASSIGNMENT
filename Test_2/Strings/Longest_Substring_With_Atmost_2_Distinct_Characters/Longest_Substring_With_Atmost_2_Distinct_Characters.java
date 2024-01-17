@@ -1,4 +1,4 @@
-// Problem Link -> https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-two-distinct-characters_3125863?leftPanelTabValue=PROBLEM
+// Problem Link -> https://www.codingninjas.com/studio/problems/longest-substring-with-at-most-two-distinct-characters_3125863?leftPanelTabValue=PROBLEMLon
 
 import java.util.HashMap;
 
